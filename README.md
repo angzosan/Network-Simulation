@@ -7,10 +7,10 @@ Queue length : 5
 Channes : 4
 
 CLASS SIMULATION
-run - initialization/instead of constructor
-initSimulation - running the simulation
-advanceSimulation - all the checks regarding the runtime
-populateStations - Creating and adding a packet to a station
+1)run - initialization/instead of constructor
+2)initSimulation - running the simulation
+3)advanceSimulation - all the checks regarding the runtime
+4)populateStations - Creating and adding a packet to a station
 
 
 RESULTS
