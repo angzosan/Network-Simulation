@@ -1,7 +1,10 @@
 # Network-Simulation
 Simple program that simulates a network.
 
-![image](https://user-images.githubusercontent.com/118728873/220865732-39242bc2-dd39-409c-8130-6c753d703240.png)
+Network Parameteres 
+Station count : 8
+Queue length : 5
+Channes : 4
 
 ![image](https://user-images.githubusercontent.com/118728873/220865788-75f9d9dc-5fe1-4484-9d2c-d9866352ec46.png)
 
