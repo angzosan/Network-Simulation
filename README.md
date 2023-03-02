@@ -4,7 +4,7 @@ Simple program that simulates a network.
 Network Parameteres 
 Station count : 8
 Queue length : 5
-Channes : 4
+Channels : 4
 
 CLASS SIMULATION
 1)run - initialization/instead of constructor
